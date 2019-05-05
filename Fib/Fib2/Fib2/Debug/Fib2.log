@@ -1,0 +1,4 @@
+﻿  Fib2.cpp
+c:\users\user\source\repos\study\fib\fib2\fib2\fib2.cpp(58): warning C4305: инициализация: усечение из "__int64" в "long"
+c:\users\user\source\repos\study\fib\fib2\fib2\fib2.cpp(58): warning C4309: инициализация: усечение константного значения
+  Fib2.vcxproj -> C:\Users\user\source\repos\Study\Fib\Fib2\Debug\Fib2.exe
